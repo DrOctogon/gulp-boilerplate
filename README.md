@@ -10,6 +10,7 @@ this is a super simple gulp boilerplate that gives you the following:
 it's aim is purely to act as a simple starting point for starting with gulp.
 
 ##usage
+as a prerequisite it's assumed you have `npm` installed and the `gulp-cli`.
 
 1. clone the repo
 
